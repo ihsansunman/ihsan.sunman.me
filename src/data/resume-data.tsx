@@ -3,14 +3,14 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "İhsan Sunman",
   initials: "IS",
-  location: "Istanbul, Turkey",
+  location: "Istanbul, Turkiye",
   locationLink: "https://www.google.com/maps/place/Istanbul",
   about:
     "Frontend Developer with 2+ years of experience in building web applications.",
   summary:
     "I think I'm gonna have to write something about myself here.",
   avatarUrl: "https://avatars.githubusercontent.com/u/9339872?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://ihsan.sunman.me",
   contact: {
     email: "ihsansunman@asnus.com",
     tel: "+905421065299",
@@ -34,7 +34,7 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Anatolian University",
+      school: "Anadolu University",
       degree: "Bachelor's Degree in Management Information Systems",
       start: "2020",
       end: "2022",
